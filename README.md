@@ -29,12 +29,4 @@
 
 ---
 
-## 🌐 Connect With Me
-
-* 💼 [LinkedIn](https://www.linkedin.com/)
-* 📝 [LeetCode](https://leetcode.com/)
-* 📧 Email: [yourname@example.com](mailto:yourname@example.com)
-
-✨ *“Transforming data into insights, and insights into impact.”*
-
 ![](https://leetcard.jacoblin.cool/Nabaneeta001?ext=heatmap)
