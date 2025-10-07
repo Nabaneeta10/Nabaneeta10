@@ -1,8 +1,6 @@
-## Hi there 👋
-# I'm Nabaneeta Mohanta
-
+## Hi there, I'm Nabaneeta Mohanta👋
 🎓 B.Tech in Computer Science & Engineering (4th Year) 
-🤖 Aspiring Data Scientist & AI/ML Engineer | 🌱 Exploring Generative AI | 📊 Passionate about Data-Driven Solutions
+🤖 Aspiring Data Scientist & AI/ML Engineer | 🌱 Exploring Generative AI 
 
 ---
 
@@ -18,20 +16,9 @@
 
 **Languages:** Python, Java, C
 **Database:** SQL
-**Data Science & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Machine Learning Models
+**Data Science & ML:** Pandas, NumPy, Matplotlib Machine Learning Models
 **Deep Learning:** TensorFlow, Keras
 **Generative AI:** Hugging Face Transformers, LangChain, NLP, RAG
-**Others:** GitHub 
-
----
-
-## 📂 Featured Projects
-
-* 📊 **Sales Forecasting with Machine Learning** – Time-series analysis for predicting sales trends.
-* 🧠 **Fake News Detection** – Built a text classification model using NLP and deep learning.
-* 🎨 **Generative AI Art Creator** – Developed an AI model for generating artwork from text prompts.
-* 📑 **AI Resume & Cover Letter Generator (Work in Progress)** – Uses LLMs to create tailored career docs.
-* 🌍 **IoT Carbon Shrinker Prototype** – AI + IoT based project aimed at monitoring and reducing CO2 emissions.
 
 ---
 
