@@ -16,9 +16,7 @@
 
 **Languages:** Python, Java, C
 **Database:** SQL
-**Data Science & ML:** Pandas, NumPy, Matplotlib Machine Learning Models
-**Deep Learning:** TensorFlow, Keras
-**Generative AI:** Hugging Face Transformers, LangChain, NLP, RAG
+**AI/ML:** Machine Learning, TensorFlow, LangChain, NLP, RAG
 
 ---
 
